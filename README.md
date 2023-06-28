@@ -1,4 +1,4 @@
 # PingGame
-The old school ping game
+The old school pong game
 
-Spent time using Classes and TKinter to create the old school Ping game
+Spent time using Classes and TKinter to create the old school Pong game
